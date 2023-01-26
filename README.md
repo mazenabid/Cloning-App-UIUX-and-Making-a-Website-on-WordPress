@@ -5,7 +5,9 @@
 # SID: 200464618
 
 *portfolio for ENSE*
+
 Assignment for lab 1: 
+
    1-  Using StoriesOnBoard (DONE)
         At least three epics in the backbone
         At least six steps in the walking skeleton
